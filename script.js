@@ -50,7 +50,6 @@ function draw() {
   	}
 }
 
-//bgm.play();
 draw();
 
 function updateTank(ctx) {	

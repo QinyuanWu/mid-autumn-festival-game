@@ -94,12 +94,6 @@ canvas {
   display: block;
 }
 
-/*
-.bgp {
-  background: url(assets/bgp.jpeg) top left;
-  z-index: 0;
-}
-*/
 
 .stars {
   background: url(assets/bgp.jpeg); /*repeat top center;*/
@@ -109,18 +103,6 @@ canvas {
   z-index: 1;
 }
 
-/*
-.twinkling {
-  background: transparent url(assets/twinkling.png) repeat top center;
-  z-index: 1;
-
-  -moz-animation: move-twink-back 200s linear infinite;
-  -ms-animation: move-twink-back 200s linear infinite;
-  -o-animation: move-twink-back 200s linear infinite;
-  -webkit-animation: move-twink-back 200s linear infinite;
-  animation: move-twink-back 200s linear infinite;
-}
-*/
 
 .clouds {
   background: transparent url(/assets/clouds.png) repeat top center;
